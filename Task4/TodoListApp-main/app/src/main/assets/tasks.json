@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Сделать ДЗ по Android",
+    "description": "Clean Architecture + Compose + Room + DataStore",
+    "isCompleted": true
+  },
+  {
+    "title": "Записаться к стоматологу",
+    "description": "Позвонить в клинику, запись на вторник",
+    "isCompleted": false
+  },
+  {
+    "title": "Купить подарок на день рождения",
+    "description": "Маме, 25 марта",
+    "isCompleted": false
+  },
+  {
+    "title": "Сдать отчет на работе",
+    "description": "Подготовить презентацию, отправить до пятницы",
+    "isCompleted": true
+  },
+  {
+    "title": "Зарядка 30 минут",
+    "description": "Утром до завтрака",
+    "isCompleted": false
+  },
+  {
+    "title": "Прочитать книгу",
+    "description": "Clean Code, 50 страниц",
+    "isCompleted": true
+  },
+  {
+    "title": "Разобрать почту",
+    "description": "Удалить спам, ответить на важные письма",
+    "isCompleted": false
+  },
+  {
+    "title": "Купить продукты на неделю",
+    "description": "Овощи, фрукты, крупы, молочка",
+    "isCompleted": false
+  },
+  {
+    "title": "Помыть машину",
+    "description": "Заехать на мойку после работы",
+    "isCompleted": false
+  }
+]
